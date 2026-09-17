@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\bin\Debug\net10.0-windows\Guia4-Fernández.exe
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\bin\Debug\net10.0-windows\Guia4-Fernández.deps.json
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\bin\Debug\net10.0-windows\Guia4-Fernández.runtimeconfig.json
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\bin\Debug\net10.0-windows\Guia4-Fernández.dll
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\bin\Debug\net10.0-windows\Guia4-Fernández.pdb
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4_Fernández.Form1.resources
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.AssemblyInfo.cs
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.dll
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\refint\Guia4-Fernández.dll
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.pdb
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\Guia4-Fernández.genruntimeconfig.cache
+C:\Users\LABORATORIO\source\repos\Guia4-Fernández\Guia4-Fernández\obj\Debug\net10.0-windows\ref\Guia4-Fernández.dll
